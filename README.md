@@ -219,5 +219,17 @@ This project is licensed under the MIT License.
 GitHub: https://github.com/Abhinavkr004
 
 ---
+## IMG1 : Authentication and Authorization
+<img width="1200" height="692" alt="img1" src="https://github.com/user-attachments/assets/7052e528-70f7-459a-8753-9b1fc64e0bc9" />
 
+## IMG2 : AI Habit Tracker Dashboard Overview
+<img width="1738" height="920" alt="img2" src="https://github.com/user-attachments/assets/5a793f0d-e1cf-442c-82d3-5b0d6825d962" />
+
+## IMG3 : AI Habit Tracker Habits Overview
+<img width="1747" height="795" alt="img3" src="https://github.com/user-attachments/assets/5e6adbc0-63ba-42b6-a2ba-1848d90b73c2" />
+
+## IMG4 : Habit Analysis : AI-Powered Insights
+<img width="478" height="647" alt="img4" src="https://github.com/user-attachments/assets/c52935c4-da5a-4821-a39a-f598b00b1286" />
+
+---
 ⭐ If you like this project, don't forget to give it a star!
